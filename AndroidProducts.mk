@@ -1,0 +1,2 @@
+PRODUCT_MAKEFILES := \
+$(LOCAL_DIT)/device_M1.mk
