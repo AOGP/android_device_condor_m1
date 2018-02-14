@@ -11,7 +11,7 @@ Component Type | Details
 -------:|:-------------------------
 Process | 28nm
 CPU     | 8x Cortex-A53, up to 2.0GHz
-GPU     | Mali-T860 at 700 MHz
+GPU     | Mali-T860 at 730 MHz
 Usually Shipped Android Version | 7.0
 ---
 
