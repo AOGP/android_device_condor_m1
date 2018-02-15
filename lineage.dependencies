@@ -1,3 +1,14 @@
 [
-	
+	{
+		"remote": "github",
+		"repository": "AOGP/android_vendor_condor_M1",
+		"target_path": "vendor/condor/M1",
+		"branch": "LineageOs-14.1"
+	},
+	{
+		"remote": "github",
+		"repository": "AOGP/KeySwitch",
+		"target_path": "packages/apps/KeySwitch",
+		"branch": "AOSP-build"
+	}
 ]
